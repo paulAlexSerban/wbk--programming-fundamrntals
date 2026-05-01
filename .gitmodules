@@ -13,3 +13,6 @@
 [submodule "workbooks/wbk--dsa--java"]
 	path = workbooks/wbk--dsa--java
 	url = https://github.com/paulAlexSerban/wbk--dsa--java.git
+[submodule "workbooks/wbk--dsa--cpp"]
+	path = workbooks/wbk--dsa--cpp
+	url = https://github.com/paulAlexSerban/wbk--dsa--cpp.git
