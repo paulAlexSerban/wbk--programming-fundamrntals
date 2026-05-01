@@ -7,3 +7,6 @@
 [submodule "workbooks/wbk--dsa--elixir"]
 	path = workbooks/wbk--dsa--elixir
 	url = https://github.com/paulAlexSerban/wbk--dsa--elixir.git
+[submodule "workbooks/wbk--dsa--php"]
+	path = workbooks/wbk--dsa--php
+	url = https://github.com/paulAlexSerban/wbk--dsa--php.git
