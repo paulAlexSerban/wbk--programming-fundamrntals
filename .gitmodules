@@ -1,3 +1,6 @@
 [submodule "workbooks/wbk--dsa--javascript-typescript"]
 	path = workbooks/wbk--dsa--javascript-typescript
 	url = https://github.com/paulAlexSerban/wbk--dsa--javascript-typescript.git
+[submodule "workbooks/wbk--dsa--python"]
+	path = workbooks/wbk--dsa--python
+	url = https://github.com/paulAlexSerban/wbk--dsa--python.git
