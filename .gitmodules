@@ -22,3 +22,6 @@
 [submodule "workbooks/wbk--fcc-dsa"]
 	path = workbooks/wbk--fcc-dsa
 	url = https://github.com/paulAlexSerban/wbk--fcc-dsa.git
+[submodule "workbooks/wbk--dsa--c"]
+	path = workbooks/wbk--dsa--c
+	url = https://github.com/paulAlexSerban/wbk--dsa--c.git
