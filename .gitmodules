@@ -10,3 +10,6 @@
 [submodule "workbooks/wbk--dsa--php"]
 	path = workbooks/wbk--dsa--php
 	url = https://github.com/paulAlexSerban/wbk--dsa--php.git
+[submodule "workbooks/wbk--dsa--java"]
+	path = workbooks/wbk--dsa--java
+	url = https://github.com/paulAlexSerban/wbk--dsa--java.git
