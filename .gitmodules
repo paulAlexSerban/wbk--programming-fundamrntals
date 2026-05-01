@@ -16,3 +16,6 @@
 [submodule "workbooks/wbk--dsa--cpp"]
 	path = workbooks/wbk--dsa--cpp
 	url = https://github.com/paulAlexSerban/wbk--dsa--cpp.git
+[submodule "workbooks/wbk--dsa--rust"]
+	path = workbooks/wbk--dsa--rust
+	url = https://github.com/paulAlexSerban/wbk--dsa--rust.git
