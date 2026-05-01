@@ -4,3 +4,6 @@
 [submodule "workbooks/wbk--dsa--python"]
 	path = workbooks/wbk--dsa--python
 	url = https://github.com/paulAlexSerban/wbk--dsa--python.git
+[submodule "workbooks/wbk--dsa--elixir"]
+	path = workbooks/wbk--dsa--elixir
+	url = https://github.com/paulAlexSerban/wbk--dsa--elixir.git
